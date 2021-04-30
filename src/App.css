@@ -26,8 +26,12 @@ a:hover{
   background: conic-gradient(from 225deg at 50% 40%, #c1c8e4, #aab0e3, #9997e0, #8e7dda, #8860d0);
   width: 100vw;
   height: 92vh;
+  text-align: center;
 }
 .brand{
   font-family: 'Original Surfer', cursive;
   font-size: large;
+}
+.logoimg{
+  margin-top:500px;
 }
