@@ -30,6 +30,16 @@ a:hover{
   height: 92vh;
   text-align: center;
 }
+.adoption{
+	background: linear-gradient(180deg, #c1c8e4, #aab0e3, #9997e0, #8e7dda, #8860d0);
+	width: 100vw;
+	height: 92vh;
+	text-align: center;
+  }
+.jumbo{
+	color: var(--purple);
+	opacity: 0.8;
+}
 .brand{
   font-family: 'Original Surfer', cursive;
   font-size: large;
@@ -38,6 +48,17 @@ a:hover{
   margin-top:500px;
   /* width: 100%; */
   height: auto;
+}
+.button{
+	background-color: var(--purple);
+	border: none;
+}
+.card:hover{
+	transform: scale(1.1);
+}
+.button:hover{
+	background-color: var(--purple);
+	border: none;
 }
 #homepage-text{
   color: #ffffff;
