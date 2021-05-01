@@ -6,7 +6,7 @@ const Home=()=>{
         <>
         <div className="home">
             <img src={logo} alt="logo" className="mt-4 logoimg"/>
-            <div id="homepage-text">Finding missing pets and more..</div>
+            <div id="homepage-text">Find missing pets and more..</div>
         </div>
          <div>
          <ul className="box-area">
